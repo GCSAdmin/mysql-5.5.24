@@ -22,3 +22,7 @@ select * from employees where id > 3500000;
 fixed in 5.5.27, patch url:
 http://bazaar.launchpad.net/~mysql/mysql-server/5.5/revision/3839
 
+2.
+fix the bug "log-warnings does not work in session level"£¬http://bugs.mysql.com/bug.php?id=66953
+
+
